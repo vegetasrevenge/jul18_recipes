@@ -1,0 +1,21 @@
+#top-section {
+  border-bottom: solid 2px grey;
+  padding: 30px;
+  padding-top: 100px;
+}
+
+#textbox {
+  height: 30px;
+  width: 200px;
+}
+
+#DOM-section {
+  display: flex;
+  flex-flow: wrap;
+}
+
+#foodProfile {
+  flex-basis: 25%;
+}
+
+/* do more styling!! */
